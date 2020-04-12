@@ -16,7 +16,7 @@ Doing this, yarn will download all packages and dependencies for your project.
 ```
 yarn dev
 ```
-Yarn will use nodemon your TypeScript project. Remember to config the exactly file on **package.json**.
+Yarn will use nodemon to run your TypeScript project. Remember to config the exactly file on **package.json**.
 
 ```
 yarn build
